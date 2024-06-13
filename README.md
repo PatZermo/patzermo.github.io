@@ -7,10 +7,10 @@ Welcome to my Github.
 - [Phyton](#Phyton)
 - [R](#R)
 - [Visual Basic](#Visual-Basic)
+- [JSON](#JSON)
 
 ### Phyton
 ```diff
-@@ Python @@
 name = "Patricio Zermo Dopico"
 title = "data enthusiast"
 skills = ["Python", "R", "SQL", "JSON","HTML/CSS", "CSV", "Power BI", "Excel", "Visual Basic"]
@@ -32,11 +32,18 @@ print("Thank you for visit my Git.")
 print("=====================================================")
 ```
 
-### Visual Basic
-
+### R
 ```diff
-@@ JSON @@
+Coming soon
+```
 
+### Visual Basic
+```diff
+Coming soon
+```
+
+### JSON
+```diff
 {
   "firstName": "Patricio",
   "lastName": "Zermo Dopico",
