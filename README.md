@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 [Phyton](#Phyton)
+[R](#R)
+[Visual Basic](#Visual-Basic)
 
 ### Phyton
 ```diff
@@ -25,6 +27,8 @@ print("=====================================================")
 print("Thank you for visit my Git.")
 print("=====================================================")
 ```
+
+### Visual Basic
 
 ```diff
 @@ JSON @@
