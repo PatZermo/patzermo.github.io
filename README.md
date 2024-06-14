@@ -18,6 +18,25 @@ else:
 
 ### Phyton
 ```diff
+Coming soon
+```
+
+### R
+```diff
+Coming soon
+```
+
+### Visual Basic
+```diff
+Coming soon
+```
+
+### JSON
+```diff
+Coming soon
+```
+
+<!--
 name = "Patricio Zermo Dopico"
 title = "data enthusiast"
 skills = ["Python", "R", "SQL", "JSON","HTML/CSS", "CSV", "Power BI", "Excel", "Visual Basic"]
@@ -39,28 +58,6 @@ print("Thank you for visit my Git.")
 print("=====================================================")
 ```
 
-### R
-```diff
-Coming soon
-```
-
-### Visual Basic
-```diff
-Coming soon
-```
-
-### JSON
-```diff
-{
-  "firstName": "Patricio",
-  "lastName": "Zermo Dopico",
-  "age": 31
-  "programming languages": "Python, R, Visual Basic",
-  "country": "AR"
-}
-```
-
-<!--
 ```diff
 - text in red
 + text in green
