@@ -10,6 +10,7 @@ else:
     print("Hello, world! Look at my Github too 🌍")
 ```
 
+### Some of my work:
 - [Phyton](#Phyton)
 - [R](#R)
 - [Visual Basic](#Visual-Basic)
