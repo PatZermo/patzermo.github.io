@@ -12,25 +12,25 @@ else:
 
 ### Some of my work:
 - [Phyton](#Phyton-)
-- [R](#R)
-- [Visual Basic](#Visual-Basic)
-- [JSON](#JSON)
+- [R](#R-)
+- [Visual Basic](#Visual-Basic-)
+- [JSON](#JSON-)
 
 
 ### Phyton 🐍
 - [My Phyton works repository](https://github.com/PatZermo/python/tree/main)
 
-### R
+### R 📊
 ```diff
 Coming soon
 ```
 
-### Visual Basic
+### Visual Basic 💾
 ```diff
 Coming soon
 ```
 
-### JSON
+### JSON 📂
 ```diff
 Coming soon
 ```
