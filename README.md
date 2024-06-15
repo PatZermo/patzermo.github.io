@@ -1,6 +1,6 @@
 ## Hi there, I'm Patricio 🦩
 
-```diff
+```python
 if recruiter == True:
     print("👋 Hello, recruiter!")
     print("I am Patricio Zermo Dopico")
