@@ -11,7 +11,7 @@ else:
 ```
 
 ### Some of my work:
-- [Phyton](#Phyton-🐍)
+- [Phyton](#Phyton-:snake)
 - [R](#R)
 - [Visual Basic](#Visual-Basic)
 - [JSON](#JSON)
