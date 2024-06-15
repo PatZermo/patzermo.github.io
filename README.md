@@ -11,12 +11,12 @@ else:
 ```
 
 ### Some of my work:
-- [Phyton](#Phyton-:snake:)
+- [Phyton](#Phyton)
 - [R](#R)
 - [Visual Basic](#Visual-Basic)
 - [JSON](#JSON)
 
-### Phyton 🐍
+### Phyton
 - [My Phyton works repository](https://github.com/PatZermo/python/tree/main)
 
 ### R
