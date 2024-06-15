@@ -17,7 +17,7 @@ else:
 - [JSON](#JSON)
 
 ### Phyton
-- [My Phyton works repository](https://github.com/PatZermo/python/tree/main)
+- [My Phyton works repository 🐍](https://github.com/PatZermo/python/tree/main)
 
 ### R
 ```diff
