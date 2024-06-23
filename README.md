@@ -10,17 +10,17 @@ else:
     print("Hello, world! Look at my Github too 🌍")
 ```
 
-### Some of my work (Cooming soon):
+### Some of my work:
 - [Phyton](#Phyton-)
 - [R](#R-)
 - [Visual Basic](#Visual-Basic-)
 - [JSON](#JSON-)
 
 <!--
-### Phyton 🐍
-- [My Phyton works repository](https://github.com/PatZermo/python/tree/main)
-
 ### R 📊
+- [My R works repository](https://github.com/PatZermo/R/tree/main)
+
+### Phyton 🐍
 ```diff
 Coming soon
 ```
