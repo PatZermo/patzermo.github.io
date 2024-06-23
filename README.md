@@ -16,7 +16,7 @@ else:
 - [Visual Basic](#Visual-Basic-)
 - [JSON](#JSON-)
 
-<!--
+
 ### R 📊
 - [My R works repository](https://github.com/PatZermo/R/tree/main)
 
@@ -35,7 +35,7 @@ Coming soon
 Coming soon
 ```
 
-
+<!--
 name = "Patricio Zermo Dopico"
 title = "data enthusiast"
 skills = ["Python", "R", "SQL", "JSON","HTML/CSS", "CSV", "Power BI", "Excel", "Visual Basic"]
