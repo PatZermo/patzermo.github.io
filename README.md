@@ -10,13 +10,13 @@ else:
     print("Hello, world! Look at my Github too 🌍")
 ```
 
-### Some of my work:
+### Some of my work (Cooming soon):
 - [Phyton](#Phyton-)
 - [R](#R-)
 - [Visual Basic](#Visual-Basic-)
 - [JSON](#JSON-)
 
-
+<!--
 ### Phyton 🐍
 - [My Phyton works repository](https://github.com/PatZermo/python/tree/main)
 
@@ -35,7 +35,7 @@ Coming soon
 Coming soon
 ```
 
-<!--
+
 name = "Patricio Zermo Dopico"
 title = "data enthusiast"
 skills = ["Python", "R", "SQL", "JSON","HTML/CSS", "CSV", "Power BI", "Excel", "Visual Basic"]
