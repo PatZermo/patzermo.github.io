@@ -11,8 +11,8 @@ else:
 ```
 
 ### Some of my work:
-- [Phyton](#Phyton-)
 - [R](#R-)
+- [Phyton](#Phyton-)
 - [Visual Basic](#Visual-Basic-)
 - [JSON](#JSON-)
 
