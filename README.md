@@ -5,7 +5,7 @@ if recruiter == True:
     print("👋 Hello, recruiter!")
     print("I am Patricio Zermo Dopico")
     print("🔍 Welcome to my Github:")
-    print("Skills: Python, R, SQL, JSON, HTML/CSS, CSV, Power BI, Excel, Visual Basic")
+    print("Skills: Python, R, SQL, ML, LLM, JSON, CSV, HTML/CSS, Power BI, Excel, Visual Basic")
 else:
     print("Hello, world! Look at my Github too 🌍")
 ```
