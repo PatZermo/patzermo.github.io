@@ -11,20 +11,19 @@ else:
 ```
 
 ### Some of my work:
-- [R](#R-)
 - [Phyton](#Phyton-)
-- [Visual Basic](#Visual-Basic-)
-- [JSON](#JSON-)
-
-
-### R 📊
-- [My R works repository](https://github.com/PatZermo/R/tree/main)
+- [R](#R-)
 
 ### Phyton 🐍
 ```diff
 Coming soon
 ```
 
+### R 📊
+- [My R works repository](https://github.com/PatZermo/R/tree/main)
+
+
+<!--
 ### Visual Basic 💾
 ```diff
 Coming soon
@@ -35,7 +34,6 @@ Coming soon
 Coming soon
 ```
 
-<!--
 name = "Patricio Zermo Dopico"
 title = "data enthusiast"
 skills = ["Python", "R", "SQL", "JSON","HTML/CSS", "CSV", "Power BI", "Excel", "Visual Basic"]
