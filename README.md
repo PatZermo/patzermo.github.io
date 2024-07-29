@@ -15,9 +15,7 @@ else:
 - [R](#R-)
 
 ### Phyton 🐍
-```diff
-Coming soon
-```
+- [My Python works repository](https://github.com/PatZermo/python/tree/main)
 
 ### R 📊
 - [My R works repository](https://github.com/PatZermo/R/tree/main)
