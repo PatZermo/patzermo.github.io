@@ -13,6 +13,7 @@ else:
 ### Some of my work:
 - [Phyton](#Phyton-)
 - [R](#R-)
+- [Visual Basic](#Visual-Basic-)
 
 ### Phyton 🐍
 - [My Python works repository](https://github.com/PatZermo/python/tree/main)
