@@ -17,7 +17,7 @@ if recruiter == True:
     print(f"And of course, I used it together with {mlLibraries[1:2]} and {mlLibraries[3]} to create amazing graphs ;)")
     print(f"A while ago, I started learning and familiarizing myself with deep learning libraries {dlLibraries} and studying neural networks, LLMs, NLP, and computer vision, aiming to develop myself in the field of AI.")
     print(f"Additionally, I have knowledge and very good proficiency in: {tools}")
-    print("I hope you didn't mind counting the indices of the lists. :D")
+    print("I hope you didn't mind counting the indices of the lists :P")
 else:
     print("Hello, world! Look at my Github too 🌍")
 ```
