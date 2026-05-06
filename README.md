@@ -22,21 +22,5 @@ else:
     print("Hello, world! Look at my Github too 🌍")
 ```
 <!--
-### Some of my work:
-- [Phyton](#Phyton-)
-- [R](#R-)
-- [Visual Basic](#Visual-Basic-)
--->
-
-### Phyton 🐍
-- [My Python works repository](https://github.com/PatZermo/python/tree/main)
-
-### R 📊
-- [My R works repository](https://github.com/PatZermo/R/tree/main)
-
-### Visual Basic 💾
-Soon I will be uploading programs I created several years ago in Visual Basic, the first programming language I learned when I was 12 years old.
-
-<!--
 What are you looking for here? If you want more info, contact me!
 -->
